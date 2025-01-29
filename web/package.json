@@ -36,7 +36,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@floating-ui/dom": "^1.5.3",
+    "@floating-ui/dom": "^1.6.13",
     "clsx": "^2.1.1",
     "cn": "^0.1.1",
     "date-fns": "^4.1.0",
